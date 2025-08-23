@@ -1,1 +1,7 @@
 subject_scores.csv
+filtered_property_bd.csv
+/trained_models
+
+*.pkl
+*.png
+*.csv
